@@ -1,4 +1,4 @@
-# Zayn's Astronomy Picture of the Day
+"# Zayn's Astronomy Picture of the Day
 
 Zayn's Astronomy Picture of the Day is a web application that allows users to view the Astronomy Picture of the Day (APOD) from NASA. Users can select a date to view the picture from that day and search for pictures by keyword.
 
@@ -19,5 +19,21 @@ Zayn's Astronomy Picture of the Day is a web application that allows users to vi
 ## Setup
 
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/amirabaws/Astronomy-Picture-of-the-Day.git
+   \`\`\`sh
+   git clone https://github.com/AmirMalaeb/AmirMalaeb-AstronomyPictureOfTheDay.git
+   \`\`\`
+2. Navigate to the project directory:
+   \`\`\`sh
+   cd AstronomyPictureoftheDay
+   \`\`\`
+3. Open \`index.html\` in your preferred web browser to view the application.
+
+## Usage
+
+- Select a date from the date picker and click \"Explore the Universe\" to view the picture of the day for that date.
+- Use the search bar to find pictures by keyword.
+
+## License
+
+This project is licensed under the MIT License.
+"

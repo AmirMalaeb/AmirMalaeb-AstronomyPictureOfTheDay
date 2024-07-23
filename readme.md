@@ -1,4 +1,4 @@
-"# Zayn's Astronomy Picture of the Day
+# Zayn's Astronomy Picture of the Day
 
 Zayn's Astronomy Picture of the Day is a web application that allows users to view the Astronomy Picture of the Day (APOD) from NASA. Users can select a date to view the picture from that day and search for pictures by keyword.
 
@@ -36,4 +36,3 @@ Zayn's Astronomy Picture of the Day is a web application that allows users to vi
 ## License
 
 This project is licensed under the MIT License.
-"

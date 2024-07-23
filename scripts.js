@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', (event) => {
-    const apiUrl = 'https://1ivrg6ayg1.execute-api.us-east-1.amazonaws.com/prod/apod';
+    const apiUrl = 'your-rest-api-here';
     const earliestDate = '1995-06-16';
     const latestDate = new Date().toISOString().split('T')[0]; // Today's date in YYYY-MM-DD format
 

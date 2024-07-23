@@ -1,0 +1,84 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #1a1a1a;
+    color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    background-image: url('new.jpg'); /* Update with the actual URL */
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+.container {
+    max-width: 800px;
+    margin: 40px auto; /* Increased top margin for better spacing */
+    padding: 20px;
+    text-align: center;
+    background: rgba(0, 0, 0, 0.7);
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    font-size: 2.5em;
+    margin-bottom: 20px;
+    color: #ffd700;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Subtle text shadow for readability */
+}
+
+.date-picker {
+    margin-bottom: 20px;
+}
+
+#date-input {
+    padding: 10px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+    width: 200px; /* Increased width for better visibility */
+}
+
+#explore-button {
+    padding: 10px 20px;
+    font-size: 1.2em;
+    border-radius: 5px;
+    border: none;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.3s ease;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Subtle text shadow for readability */
+}
+
+#explore-button:hover {
+    background-color: #0056b3;
+    transform: scale(1.05);
+}
+
+.apod-content {
+    margin-top: 20px;
+}
+
+.apod-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin: 20px 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+#title {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #ffd700;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Subtle text shadow for readability */
+}
+
+#description {
+    font-size: 1.2em;
+    line-height: 1.5;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8); /* Subtle text shadow for readability */
+}
